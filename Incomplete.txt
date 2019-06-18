@@ -1,4 +1,7 @@
-//https://a2oj.com/p?ID=24
+// problem link - https://a2oj.com/p?ID=24
+//paste bin - https://pastebin.com/0PvCQ76C
+
+
 #include <iostream>
 #include<bits/stdc++.h>
 using namespace std;

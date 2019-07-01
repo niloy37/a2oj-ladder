@@ -1,7 +1,7 @@
 # a2oj-ladder
 Solutions to a2oj problems attempted by me
 # About 
-a2oJ-ladder is sponsered by Ahmad Aly , It is a online judge. Also have features like ladder which basically is a set of problems for a certain difficulty level user.
+a2oJ-ladder is sponsored by Ahmad Aly , It is a online judge. Also have features like ladder which basically is a set of problems for a certain difficulty level user.
 
 # FAQ
 

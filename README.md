@@ -1,4 +1,4 @@
-# a2oj-ladder
+# a2oj-ladder ![](https://img.shields.io/badge/A2OJ-LADDER-orange.svg)
 Solutions to a2oj problems attempted by me
 # About 
 a2oJ-ladder is sponsored by Ahmad Aly , It is a online judge. Also have features like ladder which basically is a set of problems for a certain difficulty level user.

@@ -10,7 +10,7 @@ while(t--){
     x = 0 ; y = 0; int rc = 0;
     for(char c : s){ //modified to casual loop during submission
 
-        if(c == 'U'){
+        if(c == 'U'){//subn
             y++;
         }
         else if(c == 'R'){

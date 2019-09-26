@@ -8,4 +8,4 @@ while(t--){
     std::cin>>x>>y;
     std::cout<<x+y<<std::endl;
 }
-}
+}//a2Oj Liscense update

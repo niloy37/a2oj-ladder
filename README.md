@@ -57,4 +57,4 @@ Ladders A and half of B are for total begginers. I would suggest you next strate
               Vote: I like it 0 Vote: I do not like it
 
             That's useful, Thanks!
-            → Reply 
+            → Reply  eof
